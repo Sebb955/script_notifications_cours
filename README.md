@@ -1,6 +1,6 @@
 # README : Script qui envoie une notification des cours de l'UEVE.
 
-Ce script Python utilise Selenium, BeautifulSoup, et Pushbullet pour automatiser la récupération de l'emploi du temps universitaire depuis le site Web de l'Université d'Évry. L'emploi du temps est extrait, et une notification est envoyée via Pushbullet pour informer l'utilisateur des cours du lendemain.
+Ce script Python utilise Selenium, BeautifulSoup, et Pushbullet pour automatiser la récupération de l'emploi du temps universitaire depuis le site Web de l'Université d'Évry. L'emploi du temps est extrait, et une notification est envoyée via Pushbullet pour informer l'utilisateur des cours du lendemain. 
 
 ## Prérequis
 
