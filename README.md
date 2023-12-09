@@ -45,9 +45,7 @@ De plus, assurez-vous d'avoir le navigateur Firefox installé sur votre système
 python script.py
 ```
 
-**Dans la version Pushbullet** le script s'exécutera automatiquement à 20h50 chaque jour pour récupérer l'emploi du temps du lendemain et enverra une
-
- notification Pushbullet avec les détails des cours.
+**Dans la version Pushbullet** le script s'exécutera automatiquement à 20h50 chaque jour pour récupérer l'emploi du temps du lendemain et enverra une notification Pushbullet avec les détails des cours.
 
 ## Exemple avec la version console :
 
